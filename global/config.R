@@ -21,4 +21,4 @@ accounts <- c("stlouisfed",
 	      "50Pips",
 	      "steve_hanke")
 
-other_stop_words <- c("https", "de","la","t.co","19","en","amp","del")
+other_stop_words <- c("https", "t.co","19")
