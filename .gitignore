@@ -1,0 +1,5 @@
+token.R
+.RData
+*.Rproj
+.Rhistory
+.Rproj.user
