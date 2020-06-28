@@ -1,0 +1,10 @@
+{
+    "name": "my-nodejs-application",
+    "version": "1.0.0",
+    "description": "first time!",
+    "author": "jeanbaptiste",
+    "dependencies":{
+        "express":"4.*",
+        "jade":"1.9.*"
+    }
+}
