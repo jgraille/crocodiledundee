@@ -3,3 +3,7 @@ token.R
 *.Rproj
 .Rhistory
 .Rproj.user
+
+crocosecond/node_modules/*
+restapi/node_modules/*
+*.json
