@@ -4,6 +4,6 @@ token.R
 .Rhistory
 .Rproj.user
 
-crocosecond/node_modules/*
-restapi/node_modules/*
+/crocosecond/node_modules/*
+/restapi/node_modules/*
 *.json
