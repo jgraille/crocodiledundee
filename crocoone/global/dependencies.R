@@ -1,5 +1,4 @@
 rm(list = ls(all.names = TRUE))
-#gc()
 dependencies <- c("rtweet","dplyr","ggplot2","tidytext", "echarts4r", "shiny")
 cranMirror <- "https://ftp.gwdg.de/pub/misc/cran/"
 new.packages <- dependencies[!(dependencies %in% installed.packages()[,"Package"])]
